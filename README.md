@@ -1,5 +1,5 @@
-geometry dash but on the web, ported by bog/aukak
-all credits go to him in general.
+Geometry dash but on the web, ported by bog/aukak.
+All credits go to him in general except the online levels (Lunamix_) and the music loader (Lunamix_).
 
 these are the game files and nothing is required. the autoloader is inside the index.html
 
